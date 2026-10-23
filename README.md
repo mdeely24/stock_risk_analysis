@@ -24,7 +24,7 @@ Analysis of five large-cap stocks (AAPL, MSFT, JPM, XOM, JNJ) against the S&P 50
 - **Annualization:** annual return is the daily mean times 252. Compounded growth (CAGR) was 24.1% for the portfolio and 17.1% for SPY, so the two measures differ by about 0.6 points in opposite directions.
 
 ## How to run
-Open [https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT ](https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT) in Google Colab and run all cells.
+Open https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT in Google Colab and run all cells.
 
 ## Author
 Maeve Deely, DePaul University, B.A. Data Science
