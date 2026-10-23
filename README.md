@@ -27,3 +27,4 @@ Analysis of five large-cap stocks (AAPL, MSFT, JPM, XOM, JNJ) against the S&P 50
 Open [https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT ](https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT) in Google Colab and run all cells.
 
 ## Author
+Maeve Deely, DePaul University, B.A. Data Science
