@@ -1,4 +1,3 @@
-# stock_risk_analysis
 # Stock Returns and Risk Analysis
 
 Analysis of five large-cap stocks (AAPL, MSFT, JPM, XOM, JNJ) against the S&P 500 (SPY), 2019 to present, built in Python with yfinance, pandas, NumPy, and matplotlib.
@@ -26,3 +25,5 @@ Analysis of five large-cap stocks (AAPL, MSFT, JPM, XOM, JNJ) against the S&P 50
 
 ## How to run
 Open [https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT ](https://colab.research.google.com/drive/1gSztR9XwVo9E1DIgD4ydolruZGwOFHMa#scrollTo=SFe_KktdCIpT) in Google Colab and run all cells.
+
+## Author
